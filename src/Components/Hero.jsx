@@ -16,7 +16,7 @@ const Hero = () => {
           </h1>
           <div className="flex flex-col md:justify-between w-full md:flex-row gap-5">
             <a
-              href=""
+              href="https://t.me/MongulEth" target="_blank"
               className="px-6 py-3 border border-green-700 rounded-3xl font-semibold capitalize hover:text-white hover:bg-grewnborder-green-700"
             >
               telegram
